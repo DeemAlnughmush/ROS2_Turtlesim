@@ -50,7 +50,7 @@ Instead of writing Python code, I used a simple command to move the turtle conti
 ```bash
 ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 2.0}, angular: {z: 1.0}}"
 ```
-[Click to watch the turtle move](videos/circle_move.png)
+[Click to watch the turtle move](videos/circle_move.mp4)
 
 ##  Environment Info
 + Ubuntu (on VirtualBox)
